@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": 61042,
+      "title": "Need to create a task manager using vue js and bootstrap css",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique laborum fugit cum obcaecati aperiam. Sed ducimus earum laborum vel quidem eligendi, incidunt quis repellat, ab officia quas reiciendis fuga accusamus!",
+      "priority": "medium",
+      "due_date": "2023-04-20",
+      "reminder": true
+    },
+    {
+      "title": "To finish projects module",
+      "description": "project crud with all validations",
+      "priority": "high",
+      "due_date": "2023-05-11",
+      "reminder": true,
+      "id": 61043
+    },
+    {
+      "title": "Set milestone",
+      "description": "Milestone Description",
+      "priority": "medium",
+      "due_date": "2023-04-25",
+      "reminder": false,
+      "id": 61044
+    },
+    {
+      "title": "Create category and subcategory module ",
+      "description": "Need to create category and subcategory module",
+      "priority": "low",
+      "due_date": "2023-05-19",
+      "reminder": true,
+      "id": 61045
+    },
+    {
+      "title": "Task 1",
+      "description": "Task Description",
+      "priority": "medium",
+      "due_date": "2023-12-25",
+      "reminder": false,
+      "id": 61046
+    },
+    {
+      "title": "Learn lifecycle method in vue",
+      "description": "Learn lifecycle method in vue from tutorial",
+      "priority": "low",
+      "due_date": "2023-05-10",
+      "reminder": true,
+      "id": 61047
+    }
+  ]
+}
